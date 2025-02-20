@@ -7,8 +7,11 @@ Nexus Bot adalah alat otomatisasi yang memonitor saldo wallet di jaringan Nexus.
 ## ✨ Fitur
 
 ✅ Monitor Saldo Wallet secara otomatis
-✅ Tampilan Dashboard dengan Rich untuk informasi yang jelas
+
+✅ Tampilan Dashboard dengan Rich untuk informasi yang jela
+
 ✅ Multi-Wallet Support dengan threading dan async
+
 ✅ Auto Reconnect jika koneksi terputus
 
 
