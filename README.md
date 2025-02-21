@@ -1,4 +1,4 @@
-## 🚀 Nexus Bot - Auto Wallet Monitor
+## 🚀 Nexus Bot - Auto Ping
 
 ## 📌 Deskripsi
 
@@ -37,11 +37,10 @@ pip install -r requirements.txt
 
 3️⃣ Tambahkan Private Key Wallet
 
-Simpan private key wallet Anda di file PrivateKeys.txt, satu per baris:
+Simpan token Anda di file data.txt, satu per baris:
 
-0xPRIVATE_KEY_1
-0xPRIVATE_KEY_2
-
+ey
+ey
 
 ---
 
