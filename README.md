@@ -39,8 +39,7 @@ pip install -r requirements.txt
 
 Simpan token Anda di file data.txt, satu per baris:
 
-ey
-ey
+eyJhbGciO......
 
 ---
 
