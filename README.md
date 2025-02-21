@@ -35,9 +35,9 @@ Gunakan Python versi 3.8 atau lebih baru:
 pip install -r requirements.txt
 ```
 
-3️⃣ Tambahkan Private Key Wallet
+3️⃣ Tambahkan tokens
 
-Simpan token Anda di file data.txt, satu per baris:
+Simpan tokens Anda di file data.txt, satu per baris:
 
 eyJhbGciO......
 
